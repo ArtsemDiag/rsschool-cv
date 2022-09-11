@@ -9,7 +9,7 @@
 ###  1. *Python, Django*
 ### 2. *CSS, HTML* 
 ###  3. *Git/GitHub*
-![](https://www.codewars.com/users/ArtsemDiag/badges/small)<h1>
+![](https://www.codewars.com/users/ArtsemDiag/badges/small)
 ## ***Code example:***
 ```
 Python code:
@@ -22,7 +22,7 @@ def max_multiple(divisor, bound):
 ```
 ## ***COURSES:*** 
 ### 1.*Udemy : Python in 100 days, Algorithms and data structures in process*
-### 2.*Youtube courses : Python, HTML, CSS, Git)* <h1>
+### 2.*Youtube courses : Python, HTML, CSS, Git)* 
 ## ***Languages:***
 ### 1. *English - Beginner*
 ### 2. *Russian - Native*
