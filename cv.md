@@ -9,6 +9,7 @@
 ###  1. *Python, Django*
 ### 2. *CSS, HTML* 
 ###  3. *Git/GitHub*
+![](https://www.codewars.com/users/ArtsemDiag/badges/small)<h1>
 ## ***Code example:***
 ```
 Python code:
