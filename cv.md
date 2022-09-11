@@ -2,14 +2,14 @@
 # ***ARTSEM HALEZNIK***
 ## ***Contacts***:
 ###      ***Email:***  artsemdiag@gmail.com
-###      ***Tel:***    +48505260275 <h1>
+###      ***Tel:***    +48505260275 
 ## ***About me:***
 ##$ *Location Gdansk, Poland . I want to become a developer: "Machine learning and computer vision". I love complex tasks and find different solutions for them, I am constantly engaged in self-education.*<h1>
 ## ***SKILLS***: 
 ###  1. *Python, Django*
 ### 2. *CSS, HTML* 
 ###  3. *Git/GitHub*
-![](https://www.codewars.com/users/ArtsemDiag/badges/small)<h1>
+![](https://www.codewars.com/users/ArtsemDiag/badges/small)
 ## ***Code example:***
 ```
 Python code:
@@ -22,7 +22,7 @@ def max_multiple(divisor, bound):
 ```
 ## ***COURSES:*** 
 ### 1.*Udemy : Python in 100 days, Algorithms and data structures in process*
-### 2.*Youtube courses : Python, HTML, CSS, Git)* <h1>
+### 2.*Youtube courses : Python, HTML, CSS, Git)* 
 ## ***Languages:***
 ### 1. *English - Beginner*
 ### 2. *Russian - Native*
