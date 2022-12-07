@@ -4,7 +4,7 @@
 ###      ***Email:***  artsemdiag@gmail.com
 ###      ***Tel:***    +48505260275 <h1>
 ## ***About me:***
-##$ *Location Gdansk, Poland . I want to become a developer: "Machine learning and computer vision". I love complex tasks and find different solutions for them, I am constantly engaged in self-education.*<h1>
+## *Location Gdansk, Poland . I want to become a developer: "Machine learning and computer vision". I love complex tasks and find different solutions for them, I am constantly engaged in self-education.*
 ## ***SKILLS***: 
 ###  1. *Python, Django*
 ### 2. *CSS, HTML* 
